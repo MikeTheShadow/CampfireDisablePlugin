@@ -1,0 +1,8 @@
+name: CampfireDisable
+version: ${project.version}
+main: com.miketheshadow.campfiredisable.CampfireDisable
+api-version: 1.14
+prefix: CD
+authors: [ MikeTheShadow ]
+description: Disables vanilla campfire behaviour
+website: miketheshadow.ca
